@@ -2,10 +2,10 @@
 
 This is a Flutter mobile app I built as part of an assignment. The app lets you:
 
-Record audio** from the microphone
-Play it back** before uploading
-Upload audio** to a backend server
-Get real-time transcription** (using AssemblyAI API)
+Record audio from the microphone
+Play it back before uploading
+Upload audio to a backend server
+Get real-time transcription (using AssemblyAI API)
 
 ---
 
@@ -45,8 +45,8 @@ Get real-time transcription** (using AssemblyAI API)
 
 ##  Tech Stack
 
-* Flutter** for the app (Dart)
-* Node.js + Express** backend
-* AssemblyAI** for transcription
+* Flutter for the app (Dart)
+* Node.js + Express backend
+* AssemblyAI for transcription
 
 ---
